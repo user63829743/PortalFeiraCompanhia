@@ -59,7 +59,7 @@
                 <p class="solucoes-menu-objetivo">Conectamos feirantes e organizadores a empresas que resolvem suas necessidades de forma rápida e prática.</p>
               </div>
             </li>
-            <li><a href="${link('https://portal-feira-companhia-cadastro.vercel.app/')}">Anuncie</a></li>
+            <li><a href="https://portal-feira-companhia-cadastro.vercel.app/">Anuncie</a></li>
             <li><a href="https://www.youtube.com/@TvEgNews" class="botao-tvegnews" target="_blank" rel="noopener"><span>▶</span> TVegNews</a></li>
           </ul>
         </nav>
