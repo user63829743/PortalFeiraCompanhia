@@ -1,0 +1,11 @@
+{
+  "name": "portal-das-feiras-vercel",
+  "version": "2.3.8",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start:all": "node scripts/start-all.js"
+  }
+}
